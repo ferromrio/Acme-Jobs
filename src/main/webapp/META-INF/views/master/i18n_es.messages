@@ -31,6 +31,7 @@ master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.javier-favourite-link = Enlace favorito de Javier
 master.menu.anonymous.franFavourite-link = Enlace favorito de Fran
+master.menu.anonymous.Juanfavourite-link = Enlace favorito de Juan
 
 # master.menu.administrator ###################################################
 
@@ -94,3 +95,4 @@ master.license.text = \
 	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
 	local de su navegador para saber dónde tienen que ir algunos botones.
 	
+
