@@ -29,6 +29,10 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.javier-favourite-link = Enlace favorito de Javier
+master.menu.anonymous.franFavourite-link = Enlace favorito de Fran
+master.menu.anonymous.Juanfavourite-link = Enlace favorito de Juan
+master.menu.anonymous.fernandoFavourite-link= Enlace favorito de Fernando
 master.menu.anonymous.estefania-link = Enlace de Estefania
 
 # master.menu.administrator ###################################################
@@ -46,6 +50,7 @@ master.menu.provider.favourite-link = Enlace favorito
 
 master.menu.consumer = Consumidor
 master.menu.consumer.favourite-link = Enlace favorito
+
 
 # master.menu.user-account ####################################################
 
@@ -92,3 +97,5 @@ master.license.text = \
 	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
 	local de su navegador para saber dónde tienen que ir algunos botones.
 	
+
+
