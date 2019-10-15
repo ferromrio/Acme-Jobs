@@ -28,12 +28,14 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.javier-favourite-link = Enlace favorito de Javier
 master.menu.anonymous.franFavourite-link = Enlace favorito de Fran
 master.menu.anonymous.Juanfavourite-link = Enlace favorito de Juan
 master.menu.anonymous.fernandoFavourite-link= Enlace favorito de Fernando
-master.menu.anonymous.estefania-link = Enlace de Estefania
+master.menu.anonymous.estefania-link = Enlace favorito de Estefania
+
+master.menu.anonymous.listShouts = Lista de gritos
+master.menu.anonymous.shout = ¡Gritar!
 
 # master.menu.administrator ###################################################
 
