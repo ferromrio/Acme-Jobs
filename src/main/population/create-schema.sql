@@ -29,6 +29,17 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+    create table `garcia_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `moment` datetime(6),
+        `name` varchar(255),
+        `subject` varchar(255),
+        `surname` varchar(255),
+        `text` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
     create table `provider` (
        `id` integer not null,
         `version` integer not null,

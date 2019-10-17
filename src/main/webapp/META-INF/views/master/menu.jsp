@@ -23,10 +23,15 @@
 			<acme:menu-suboption code="master.menu.anonymous.franFavourite-link" action="http://www.google.com/"/>
  			<acme:menu-suboption code="master.menu.anonymous.Juanfavourite-link" action="https://es.wikipedia.org/wiki/Julen_Lopetegui"/>
       <acme:menu-suboption code="master.menu.anonymous.fernandoFavourite-link" action="http://www.lsi.us.es/docencia/pagina_asignatura.php?id=153"/>
-      <acme:menu-suboption code="master.menu.anonymous.estefania-link" action="http://www.linkedin.com/"/> 
+      <acme:menu-suboption code="master.menu.anonymous.estefania-link" action="http://www.linkedin.com/"/>
+       
 		<acme:menu-separator/>
 		<acme:menu-suboption code="master.menu.anonymous.listShouts" action="/anonymous/shout/list"/>
 		<acme:menu-suboption code="master.menu.anonymous.shout" action="/anonymous/shout/create"/>
+		
+		<acme:menu-separator/>
+		<acme:menu-suboption code="master.menu.anonymous.listGarciaBulletins" action="/anonymous/garcia-bulletin/list"/>
+		<acme:menu-suboption code="master.menu.anonymous.createGarciaBulletin" action="/anonymous/garcia-bulletin/create"/>
 		
 		</acme:menu-option>
 
