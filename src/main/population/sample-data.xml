@@ -37,5 +37,29 @@
 		<property name="moment" value="2019/09/07 00:00"/>
 	</bean>
 
+	<!--  GanforninaBulletin -->
+	
+	<bean id="ganforninaBulletin01" class="acme.entities.ganforninaBulletins.GanforninaBulletin">
+		<property name="company" value="SoftwareIN"/>
+		<property name="description" value="Ingeniero de software."/>
+		<property name="salary" value="1300"/>
+		<property name="vacancies" value="20"/>
+		<property name="moment" value="2019/9/23 12:47"/>
+	</bean>
+	
+	<bean id="ganforninaBulletin02" class="acme.entities.ganforninaBulletins.GanforninaBulletin">
+		<property name="company" value="Informatic"/>
+		<property name="description" value="Mayorista de productos informáticos."/>
+		<property name="salary" value="1500.5"/>
+		<property name="vacancies" value="12"/>
+		<property name="moment" value="2019/10/07 12:30"/>	</bean>
+	
+	<bean id="ganforninaBulletin03" class="acme.entities.ganforninaBulletins.GanforninaBulletin">
+		<property name="company" value="Tevil"/>
+		<property name="description" value="Buscamos una persona para trabajar como técnica comercial."/>
+		<property name="salary" value="1250"/>
+		<property name="vacancies" value="1"/>
+		<property name="moment" value="2019/09/12 00:30"/>
+	</bean>
 
 </beans>
