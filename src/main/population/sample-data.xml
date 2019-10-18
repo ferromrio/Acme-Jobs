@@ -37,5 +37,27 @@
 		<property name="moment" value="2019/09/07 00:00"/>
 	</bean>
 
+	<!--  fernandezBulletin -->
+	
+	<bean id="fernandezBulletin01" class="acme.entities.fernandezBulletin.FernandezBulletin">
+		<property name="author" value="Maurice Gamelin"/>
+		<property name="text" value="I'm french!"/>
+		<property name="moment" value="2019/09/09 10:00"/>
+		<property name="country" value="France"/>
+	</bean>
+	
+	<bean id="fernandezBulletin02" class="acme.entities.fernandezBulletin.FernandezBulletin">
+		<property name="author" value="Nick Riviera"/>
+		<property name="text" value="Hello everyone!"/>
+		<property name="moment" value="2019/08/09 15:55"/>
+		<property name="country" value="Mexico"/>
+	</bean>
+	
+	<bean id="fernandezBulletin03" class="acme.entities.fernandezBulletin.FernandezBulletin">
+		<property name="author" value="Lee Sin"/>
+		<property name="text" value="Just turning 40!"/>
+		<property name="moment" value="2019/09/07 00:00"/>
+		<property name="country" value="China"/>
+	</bean>
 
 </beans>

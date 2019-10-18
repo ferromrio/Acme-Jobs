@@ -36,6 +36,8 @@ master.menu.anonymous.estefania-link = Enlace favorito de Estefania
 
 master.menu.anonymous.listShouts = Lista de gritos
 master.menu.anonymous.shout = ¡Gritar!
+master.menu.anonymous.listFernandezBulletins = Lista de FernandezBulletins
+master.menu.anonymous.FernandezBulletin = Crear FernandezBulletin
 
 # master.menu.administrator ###################################################
 

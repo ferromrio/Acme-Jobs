@@ -27,7 +27,8 @@
 		<acme:menu-separator/>
 		<acme:menu-suboption code="master.menu.anonymous.listShouts" action="/anonymous/shout/list"/>
 		<acme:menu-suboption code="master.menu.anonymous.shout" action="/anonymous/shout/create"/>
-		
+		<acme:menu-suboption code="master.menu.anonymous.listFernandezBulletins" action="/anonymous/fernandez-bulletin/list"/>
+		<acme:menu-suboption code="master.menu.anonymous.FernandezBulletin" action="/anonymous/fernandez-bulletin/create"/>
 		</acme:menu-option>
 
 
