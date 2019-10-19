@@ -29,6 +29,17 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+    create table `ganfornina_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `company` varchar(255),
+        `description` varchar(255),
+        `moment` datetime(6),
+        `salary` double precision,
+        `vacancies` integer,
+        primary key (`id`)
+    ) engine=InnoDB;
+
     create table `provider` (
        `id` integer not null,
         `version` integer not null,
