@@ -312,4 +312,23 @@ Shout
 + text: String {NotBlank}</panel_attributes>
     <additional_attributes/>
   </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>196</x>
+      <y>448</y>
+      <w>266</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+RomeroBulletin
+--
++name: String{NotBlank}
++surname: String{NotBlank}
++telephone: Integer{Max=999999999,Min=100000000}
++email: String{NotBlank,Email}
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>
