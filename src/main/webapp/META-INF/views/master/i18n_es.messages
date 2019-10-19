@@ -39,6 +39,12 @@ master.menu.anonymous.shout = ¡Gritar!
 master.menu.anonymous.listFernandezBulletins = Lista de FernandezBulletins
 master.menu.anonymous.FernandezBulletin = Crear FernandezBulletin
 
+master.menu.anonymous.listGarciaBulletins = Lista de boletines Garcia
+master.menu.anonymous.createGarciaBulletin = ¡Crear boletín Garcia!
+
+master.menu.anonymous.ganfornina-bulletins = Lista de boletines Ganfornina
+master.menu.anonymous.ganfornina-bulletin = ¡Crear boletín Ganfornina!
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador
