@@ -34,3 +34,5 @@
     drop table if exists `user_account`;
 
     drop table if exists `hibernate_sequence`;
+
+    drop table if exists `perejon_bulletin`;

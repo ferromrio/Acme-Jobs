@@ -65,6 +65,15 @@
 
     insert into `hibernate_sequence` values ( 1 );
 
+    create table `perejon_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `aspiraciones` varchar(255),
+        `moment` datetime(6),
+        `nombre` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
     alter table `user_account` 
        add constraint UK_castjbvpeeus0r8lbpehiu0e4 unique (`username`);
 
