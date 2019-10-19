@@ -36,8 +36,18 @@ master.menu.anonymous.estefania-link = Enlace favorito de Estefania
 
 master.menu.anonymous.listShouts = Lista de gritos
 master.menu.anonymous.shout = ¡Gritar!
-master.menu.anonymous.listRomeroBulletins = Lista Boletin Romero
-master.menu.anonymous.romeroBulletin = Boletin Romero
+
+master.menu.anonymous.listRomeroBulletins = Lista de Boletin Romero
+master.menu.anonymous.romeroBulletin = ¡Crear Boletin Romero!
+
+master.menu.anonymous.listFernandezBulletins = Lista de Boletin Fernandez
+master.menu.anonymous.FernandezBulletin = ¡Crear Boletin Fernandez!
+
+master.menu.anonymous.listGarciaBulletins = Lista de Boletin Garcia
+master.menu.anonymous.createGarciaBulletin = ¡Crear Boletin Garcia!
+
+master.menu.anonymous.ganfornina-bulletins = Lista de Boletin Ganfornina
+master.menu.anonymous.ganfornina-bulletin = ¡Crear Boletin Ganfornina!
 
 # master.menu.administrator ###################################################
 
