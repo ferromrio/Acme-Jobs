@@ -37,8 +37,11 @@ master.menu.anonymous.estefania-link = Estefania's favourite link
 master.menu.anonymous.listShouts = List shouts
 master.menu.anonymous.shout = Shout!
 
+master.menu.anonymous.listPerejonBulletins = List PerejonBulletins
+master.menu.anonymous.PerejonBulletin = Create PerejonBulletin!
+
 master.menu.anonymous.listRomeroBulletins = List RomeroBulletins
-master.menu.anonymous.romeroBulletin = Romero Bulletin
+master.menu.anonymous.romeroBulletin = Create RomeroBulletin!
 
 master.menu.anonymous.listFernandezBulletins = List FernandezBulletins
 master.menu.anonymous.FernandezBulletin = Create FernandezBulletin
@@ -46,7 +49,7 @@ master.menu.anonymous.FernandezBulletin = Create FernandezBulletin
 master.menu.anonymous.listGarciaBulletins = List GarciaBulletins
 master.menu.anonymous.createGarciaBulletin = Create GarciaBulletin!
 
-master.menu.anonymous.ganfornina-bulletins = List Ganfornina bulletins
+master.menu.anonymous.ganfornina-bulletins = List GanforninaBulletins
 master.menu.anonymous.ganfornina-bulletin = Create GanforninaBulletin!
 
 # master.menu.administrator ###################################################
