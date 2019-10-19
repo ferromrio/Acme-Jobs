@@ -1,3 +1,4 @@
+
     create table `administrator` (
        `id` integer not null,
         `version` integer not null,
@@ -28,17 +29,16 @@
         primary key (`id`)
     ) engine=InnoDB;
 
-    create table `garcia_bulletin` (
+    create table `fernandez_bulletin` (
        `id` integer not null,
         `version` integer not null,
+        `author` varchar(255),
+        `country` varchar(255),
         `moment` datetime(6),
-        `name` varchar(255),
-        `subject` varchar(255),
-        `surname` varchar(255),
         `text` varchar(255),
-         primary key (`id`)
+        primary key (`id`)
     ) engine=InnoDB;
-    
+
     create table `ganfornina_bulletin` (
        `id` integer not null,
         `version` integer not null,
@@ -49,24 +49,15 @@
         `vacancies` integer,
         primary key (`id`)
     ) engine=InnoDB;
-    
-    create table `fernandez_bulletin` (
+
+    create table `garcia_bulletin` (
        `id` integer not null,
         `version` integer not null,
-        `author` varchar(255),
-        `country` varchar(255),
         `moment` datetime(6),
-        `text` varchar(255),
-        primary key (`id`)
-    ) engine=InnoDB;
-    
-    create table `romero_bulletin` (
-       `id` integer not null,
-        `version` integer not null,
-        `email` varchar(255),
         `name` varchar(255),
+        `subject` varchar(255),
         `surname` varchar(255),
-        `telephone` integer,
+        `text` varchar(255),
         primary key (`id`)
     ) engine=InnoDB;
 
@@ -76,6 +67,16 @@
         `user_account_id` integer,
         `company` varchar(255),
         `sector` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
+    create table `romero_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `email` varchar(255),
+        `name` varchar(255),
+        `surname` varchar(255),
+        `telephone` integer,
         primary key (`id`)
     ) engine=InnoDB;
 

@@ -312,13 +312,13 @@ Shout
 + text: String {NotBlank}</panel_attributes>
     <additional_attributes/>
   </element>
- <element>
+  <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>189</x>
-      <y>385</y>
-      <w>252</w>
-      <h>105</h>
+      <x>1155</x>
+      <y>561</y>
+      <w>362</w>
+      <h>149</h>
     </coordinates>
     <panel_attributes>&lt;&lt;Entity&gt;&gt;
 GanforninaBulletin
@@ -333,7 +333,7 @@ GanforninaBulletin
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>308</x>
+      <x>22</x>
       <y>561</y>
       <w>352</w>
       <h>143</h>
@@ -351,10 +351,10 @@ GarciaBulletin
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>273</x>
-      <y>378</y>
-      <w>224</w>
-      <h>77</h>
+      <x>385</x>
+      <y>561</y>
+      <w>345</w>
+      <h>143</h>
     </coordinates>
     <panel_attributes>&lt;&lt;Entity&gt;&gt;
 FernandezBulletin
@@ -368,10 +368,10 @@ FernandezBulletin
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>196</x>
-      <y>448</y>
-      <w>266</w>
-      <h>84</h>
+      <x>748</x>
+      <y>561</y>
+      <w>398</w>
+      <h>150</h>
     </coordinates>
     <panel_attributes>&lt;&lt;Entity&gt;&gt;
 RomeroBulletin
