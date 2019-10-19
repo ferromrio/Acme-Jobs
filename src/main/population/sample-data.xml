@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
@@ -109,5 +110,28 @@
 		<property name="text" value="Just turning 40!"/>
 		<property name="moment" value="2019/09/07 00:00"/>
 		<property name="country" value="China"/>
+	</bean>
+  
+  <!-- RomeroBulletins -->
+	
+	<bean id="romeroBulletin01" class="acme.entities.romeroBulletins.RomeroBulletin">
+		<property name="name" value="Fernando"/>
+		<property name="surname" value="Romero Rioja"/>
+		<property name="telephone" value="671901730"/>
+		<property name="email" value="ferromrio@alum.us.es"/>
+	</bean>
+	
+	<bean id="romeroBulletin02" class="acme.entities.romeroBulletins.RomeroBulletin">
+		<property name="name" value="John"/>
+		<property name="surname" value="McArthur"/>
+		<property name="telephone" value="689784456"/>
+		<property name="email" value="johnmcarthur@gmail.com"/>
+	</bean>
+	
+	<bean id="romeroBulletin03" class="acme.entities.romeroBulletins.RomeroBulletin">
+		<property name="name" value="Leslie"/>
+		<property name="surname" value="Design Testing"/>
+		<property name="telephone" value= "666777999" />
+		<property name="email" value="leslie@designtesting"/>
 	</bean>
 </beans>

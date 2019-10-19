@@ -36,6 +36,10 @@ master.menu.anonymous.estefania-link = Estefania's favourite link
 
 master.menu.anonymous.listShouts = List shouts
 master.menu.anonymous.shout = Shout!
+
+master.menu.anonymous.listRomeroBulletins = List RomeroBulletins
+master.menu.anonymous.romeroBulletin = Romero Bulletin
+
 master.menu.anonymous.listFernandezBulletins = List FernandezBulletins
 master.menu.anonymous.FernandezBulletin = Create FernandezBulletin
 
