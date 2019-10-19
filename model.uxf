@@ -387,10 +387,10 @@ RomeroBulletin
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>162</x>
-      <y>300</y>
-      <w>198</w>
-      <h>60</h>
+      <x>1199</x>
+      <y>429</y>
+      <w>352</w>
+      <h>115</h>
     </coordinates>
     <panel_attributes>&lt;&lt;Entity&gt;&gt;
 perejonBulletin

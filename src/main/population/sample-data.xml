@@ -136,7 +136,6 @@
   
   <!-- PerejonBulletis -->
   
-  	</bean>
 		<bean id="perejonBulletin01" class="acme.entities.perejonBulletins.perejonBulletin">
 		<property name="nombre" value="Fran"/>
 		<property name="aspiraciones" value="Get money!"/>
