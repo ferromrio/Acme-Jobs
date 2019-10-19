@@ -37,6 +37,17 @@
         `subject` varchar(255),
         `surname` varchar(255),
         `text` varchar(255),
+         primary key (`id`)
+    ) engine=InnoDB;
+    
+    create table `ganfornina_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `company` varchar(255),
+        `description` varchar(255),
+        `moment` datetime(6),
+        `salary` double precision,
+        `vacancies` integer,
         primary key (`id`)
     ) engine=InnoDB;
 

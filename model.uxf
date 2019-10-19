@@ -312,6 +312,24 @@ Shout
 + text: String {NotBlank}</panel_attributes>
     <additional_attributes/>
   </element>
+ <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>189</x>
+      <y>385</y>
+      <w>252</w>
+      <h>105</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+GanforninaBulletin
+--
++ company: String {NotBlank}
++ description: String {NotBlank}
++ salary: Double {Min (value = 1), NotNull}
++ vacancies: Integer {Min (Value = 1), NotNull}
++ moment: Date {Temporal (TIMESTAMP),Past}</panel_attributes>
+    <additional_attributes/>
+  </element>
   <element>
     <id>UMLClass</id>
     <coordinates>

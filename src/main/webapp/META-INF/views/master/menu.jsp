@@ -29,12 +29,17 @@
 		<acme:menu-suboption code="master.menu.anonymous.listShouts" action="/anonymous/shout/list"/>
 		<acme:menu-suboption code="master.menu.anonymous.shout" action="/anonymous/shout/create"/>
 		
+     <acme:menu-separator/>
+		<acme:menu-suboption code="master.menu.anonymous.ganfornina-bulletins" action="/anonymous/ganfornina-bulletin/list"/>
+		<acme:menu-suboption code="master.menu.anonymous.ganfornina-bulletin" action="/anonymous/ganfornina-bulletin/create"/>
+      
 		<acme:menu-separator/>
 		<acme:menu-suboption code="master.menu.anonymous.listGarciaBulletins" action="/anonymous/garcia-bulletin/list"/>
 		<acme:menu-suboption code="master.menu.anonymous.createGarciaBulletin" action="/anonymous/garcia-bulletin/create"/>
 		
+      
 		</acme:menu-option>
-
+			
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>

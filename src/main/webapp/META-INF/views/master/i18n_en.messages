@@ -38,7 +38,10 @@ master.menu.anonymous.listShouts = List shouts
 master.menu.anonymous.shout = Shout!
 
 master.menu.anonymous.listGarciaBulletins = List GarciaBulletins
-master.menu.anonymous.createGarciaBulletin = Create GarciaBulletin
+master.menu.anonymous.createGarciaBulletin = Create GarciaBulletin!
+
+master.menu.anonymous.ganfornina-bulletins = List Ganfornina bulletins
+master.menu.anonymous.ganfornina-bulletin = Create GanforninaBulletin!
 
 # master.menu.administrator ###################################################
 
