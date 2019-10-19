@@ -1,4 +1,3 @@
-
     create table `administrator` (
        `id` integer not null,
         `version` integer not null,
@@ -48,6 +47,16 @@
         `moment` datetime(6),
         `salary` double precision,
         `vacancies` integer,
+        primary key (`id`)
+    ) engine=InnoDB;
+    
+    create table `fernandez_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `author` varchar(255),
+        `country` varchar(255),
+        `moment` datetime(6),
+        `text` varchar(255),
         primary key (`id`)
     ) engine=InnoDB;
 
