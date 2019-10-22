@@ -32,6 +32,7 @@ The contributors to this project are:
  -fraperbar (fraperbar@alum.us.es)
  -Juan Fernández Fernández (juaferfer11@alum.us.es)
  -Fernando Romero Rioja (ferromrio@alum.us.es)
+ -Estefanía Ganfornina Triguero (estgantri@alum.us.es)
 
 
 
